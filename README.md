@@ -21,6 +21,9 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import scipy.sparse as sp
 import seaborn as sns
 ```
+```
+pip install -r requirements.txt
+```
 ## Etapas del proyecto
 * Extraer los datos a partir de archivos .csv
 * Cargar y juntar las bases de datos usando Python
